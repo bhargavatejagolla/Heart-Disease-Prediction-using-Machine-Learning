@@ -50,7 +50,7 @@ This project predicts the likelihood of heart disease in patients using **Machin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/heart-disease-prediction.git
+   git clone https://github.com/bhargavatejagolla/heart-disease-prediction.git
    cd heart-disease-prediction
     ```
 2. Install the required dependencies:
